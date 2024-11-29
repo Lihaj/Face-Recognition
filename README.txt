@@ -1,5 +1,5 @@
 
-Here is the pip command to install all the required libraries in one line ->
+## Here is the pip command to install all the required libraries in one line 
 
 pip install shutil sklearn pandas numpy matplotlib seaborn tqdm tensorflow keras pillow opencv-python mtcnn
 
